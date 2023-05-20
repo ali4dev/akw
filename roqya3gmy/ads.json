@@ -2,7 +2,7 @@
   {
     "MyAds": [
       {
-        "updateVersion": 14,
+        "updateVersion": 13,
         "adsTrigger": "yes",
         "banner_or_native": "native",
         "_admob_app_id": "ca-app-pub-3978119061467435~4404200947",
