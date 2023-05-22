@@ -1,0 +1,16 @@
+[
+  {
+    "MyAds": [
+      {
+        "updateVersion": 13,
+        "adsTrigger": "yes",
+        "banner_or_native": "native",
+        "_admob_app_id": "ca-app-pub-3978119061467435~4404200947",
+        "_admob_Open": "ca-app-pub-3978119061467435/3638028263",
+        "_admob_Interstitial": "ca-app-pub-3978119061467435/6718060017",
+        "_admob_banner": "ca-app-pub-3978119061467435/3526588764",
+        "_admob_Native": "ca-app-pub-3978119061467435/2262637380"
+      }
+    ]
+  }
+]
