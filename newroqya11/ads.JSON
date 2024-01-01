@@ -4,7 +4,7 @@
       {
         "id": "1",
         "inside_outside": "inside",
-        "adsTrigger": "yes",
+        "adsTrigger": "no",
         "updateVersion": "1",
         "_admob_app_id": "ca-app-pub-3978119061467435~1022619743",
         "_admob_Open": "ca-app-pub-3978119061467435/6873366237",
